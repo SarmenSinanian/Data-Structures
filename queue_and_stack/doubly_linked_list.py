@@ -9,7 +9,7 @@ class ListNode:
         self.prev = prev
         self.next = next
 
-    """Wrap the given value in a ListNode and insert it
+    """Wrap the given value in a ListNode and insert 
     after this node. Note that this node could already
     have a next node it is point to."""
     def insert_after(self, value):
